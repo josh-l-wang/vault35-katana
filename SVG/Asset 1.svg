@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 84.89 76.32">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        fill: #fff;
+        stroke: #231f20;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: .25px;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 4px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <rect class="cls-4" x="4.76" y="6.15" width="10" height="10" rx="1" ry="1"/>
+    <rect class="cls-4" x="4.76" y="16.15" width="10" height="10" rx="1" ry="1"/>
+    <rect class="cls-4" x="4.76" y="26.15" width="10" height="10" rx="1" ry="1"/>
+    <rect class="cls-4" x="4.76" y="46.15" width="10" height="10" rx="1" ry="1"/>
+    <rect class="cls-4" x="4.76" y="56.15" width="10" height="10" rx="1" ry="1"/>
+    <rect class="cls-4" x="4.76" y="66.2" width="10" height="10" rx="1" ry="1"/>
+    <rect class="cls-4" x="14.76" y="16.15" width="10" height="10" rx="1" ry="1"/>
+    <rect class="cls-4" x="14.76" y="56.15" width="10" height="10" rx="1" ry="1"/>
+    <rect class="cls-4" x="14.76" y="66.15" width="10" height="10" rx="1" ry="1"/>
+    <rect class="cls-4" x="24.76" y="56.15" width="10" height="10" rx="1" ry="1"/>
+    <rect class="cls-4" x="34.76" y="56.15" width="10" height="10" rx="1" ry="1"/>
+    <text/>
+    <rect class="cls-4" x="39.76" y="66.15" width="10" height="10" rx="1" ry="1"/>
+    <rect class="cls-4" x="74.76" y="6.15" width="10" height="10" rx="1" ry="1" transform="translate(159.52 22.31) rotate(-180)"/>
+    <rect class="cls-4" x="74.76" y="16.15" width="10" height="10" rx="1" ry="1" transform="translate(159.52 42.31) rotate(-180)"/>
+    <rect class="cls-4" x="74.76" y="26.15" width="10" height="10" rx="1" ry="1" transform="translate(159.52 62.31) rotate(-180)"/>
+    <rect class="cls-4" x="74.76" y="46.15" width="10" height="10" rx="1" ry="1" transform="translate(159.52 102.31) rotate(-180)"/>
+    <rect class="cls-4" x="74.76" y="56.15" width="10" height="10" rx="1" ry="1" transform="translate(159.52 122.31) rotate(-180)"/>
+    <rect class="cls-4" x="74.76" y="66.15" width="10" height="10" rx="1" ry="1" transform="translate(159.52 142.31) rotate(-180)"/>
+    <rect class="cls-4" x="64.76" y="16.15" width="10" height="10" rx="1" ry="1" transform="translate(139.52 42.31) rotate(-180)"/>
+    <rect class="cls-4" x="64.76" y="56.15" width="10" height="10" rx="1" ry="1" transform="translate(139.52 122.31) rotate(-180)"/>
+    <rect class="cls-4" x="64.76" y="66.15" width="10" height="10" rx="1" ry="1" transform="translate(139.52 142.31) rotate(-180)"/>
+    <rect class="cls-4" x="54.76" y="56.15" width="10" height="10" rx="1" ry="1" transform="translate(119.52 122.31) rotate(-180)"/>
+    <rect class="cls-4" x="44.76" y="56.15" width="10" height="10" rx="1" ry="1" transform="translate(99.52 122.31) rotate(-180)"/>
+    <g>
+      <rect class="cls-4" x="14.76" y="6.15" width="12.5" height="10" rx="1" ry="1"/>
+      <text class="cls-6" transform="translate(17.93 12.33)"><tspan x="0" y="0">125</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-4" x="27.26" y="6.15" width="17.5" height="10" rx="1" ry="1"/>
+      <text class="cls-6" transform="translate(32.93 12.33)"><tspan x="0" y="0">175</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-4" x="24.76" y="16.15" width="20" height="10" rx="1" ry="1"/>
+      <text class="cls-6" transform="translate(31.68 22.33)"><tspan x="0" y="0">200</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-4" x="44.76" y="26.15" width="30" height="10" rx="1" ry="1" transform="translate(119.52 62.31) rotate(-180)"/>
+      <text class="cls-6" transform="translate(56.68 32.33)"><tspan x="0" y="0">300</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-4" x="14.76" y="46.15" width="60" height="10" rx="1" ry="1"/>
+      <text class="cls-6" transform="translate(41.68 52.33)"><tspan x="0" y="0">600</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-4" x="24.76" y="66.15" width="15" height="10" rx="1" ry="1"/>
+      <text class="cls-6" transform="translate(29.18 72.33)"><tspan x="0" y="0">150</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-4" x="14.76" y="26.15" width="30" height="10" rx="1" ry="1" transform="translate(59.52 62.31) rotate(-180)"/>
+      <text class="cls-6" transform="translate(26.68 32.33)"><tspan x="0" y="0">300</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-4" x="29.76" y="36.15" width="30" height="10" rx="1" ry="1" transform="translate(89.52 82.31) rotate(-180)"/>
+      <text class="cls-6" transform="translate(41.68 42.33)"><tspan x="0" y="0">300</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-4" x="17.26" y="36.15" width="12.5" height="10" rx="1" ry="1"/>
+      <text class="cls-6" transform="translate(20.43 42.33)"><tspan x="0" y="0">125</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-4" x="4.76" y="36.15" width="12.5" height="10" rx="1" ry="1"/>
+      <text class="cls-6" transform="translate(7.93 42.33)"><tspan x="0" y="0">125</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-4" x="44.76" y="16.15" width="20" height="10" rx="1" ry="1"/>
+      <text class="cls-6" transform="translate(51.68 22.33)"><tspan x="0" y="0">200</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-4" x="44.76" y="6.15" width="17.5" height="10" rx="1" ry="1"/>
+      <text class="cls-6" transform="translate(50.43 12.33)"><tspan x="0" y="0">175</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-4" x="62.26" y="6.15" width="12.5" height="10" rx="1" ry="1"/>
+      <text class="cls-6" transform="translate(65.43 12.33)"><tspan x="0" y="0">125</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-4" x="72.26" y="36.15" width="12.5" height="10" rx="1" ry="1"/>
+      <text class="cls-6" transform="translate(75.43 42.33)"><tspan x="0" y="0">125</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-4" x="59.76" y="36.15" width="12.5" height="10" rx="1" ry="1"/>
+      <text class="cls-6" transform="translate(62.93 42.33)"><tspan x="0" y="0">125</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-4" x="49.76" y="66.15" width="15" height="10" rx="1" ry="1"/>
+      <text class="cls-6" transform="translate(54.18 72.33)"><tspan x="0" y="0">150</tspan></text>
+    </g>
+    <text class="cls-6" transform="translate(0 12.33)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-6" transform="translate(0 22.33)"><tspan x="0" y="0">2</tspan></text>
+    <text class="cls-6" transform="translate(0 32.33)"><tspan x="0" y="0">3</tspan></text>
+    <text class="cls-6" transform="translate(0 42.33)"><tspan x="0" y="0">4</tspan></text>
+    <text class="cls-6" transform="translate(0 52.33)"><tspan x="0" y="0">5</tspan></text>
+    <text class="cls-6" transform="translate(0 62.33)"><tspan x="0" y="0">6</tspan></text>
+    <text class="cls-6" transform="translate(0 72.37)"><tspan x="0" y="0">7</tspan></text>
+    <text class="cls-6" transform="translate(27.36 3.35)"><tspan class="cls-1" x="0" y="0">B</tspan><tspan x="2.18" y="0">ot</tspan><tspan class="cls-3" x="5.7" y="0">t</tspan><tspan x="7" y="0">om </tspan><tspan class="cls-1" x="13.38" y="0">R</tspan><tspan class="cls-2" x="15.55" y="0">o</tspan><tspan class="cls-5" x="17.72" y="0">w Options</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80.25 70.3">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #231f20;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: .25px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <rect class="cls-1" x=".13" y=".13" width="10" height="10" rx="1" ry="1"/>
+    <rect class="cls-1" x=".13" y="10.13" width="10" height="10" rx="1" ry="1"/>
+    <rect class="cls-1" x=".12" y="20.13" width="10" height="10" rx="1" ry="1"/>
+    <rect class="cls-1" x=".12" y="40.13" width="10" height="10" rx="1" ry="1"/>
+    <rect class="cls-1" x=".12" y="50.13" width="10" height="10" rx="1" ry="1"/>
+    <rect class="cls-1" x=".13" y="60.17" width="10" height="10" rx="1" ry="1"/>
+    <rect class="cls-1" x="10.13" y="10.13" width="10" height="10" rx="1" ry="1"/>
+    <rect class="cls-1" x="10.13" y="50.13" width="10" height="10" rx="1" ry="1"/>
+    <rect class="cls-1" x="10.13" y="60.13" width="10" height="10" rx="1" ry="1"/>
+    <rect class="cls-1" x="20.13" y="50.13" width="10" height="10" rx="1" ry="1"/>
+    <rect class="cls-1" x="30.13" y="50.13" width="10" height="10" rx="1" ry="1"/>
+    <rect class="cls-1" x="35.13" y="60.13" width="10" height="10" rx="1" ry="1"/>
+    <rect class="cls-1" x="70.13" y=".13" width="10" height="10" rx="1" ry="1" transform="translate(150.25 10.25) rotate(-180)"/>
+    <rect class="cls-1" x="70.13" y="10.13" width="10" height="10" rx="1" ry="1" transform="translate(150.25 30.25) rotate(-180)"/>
+    <rect class="cls-1" x="70.13" y="20.13" width="10" height="10" rx="1" ry="1" transform="translate(150.25 50.25) rotate(-180)"/>
+    <rect class="cls-1" x="70.13" y="40.13" width="10" height="10" rx="1" ry="1" transform="translate(150.25 90.25) rotate(-180)"/>
+    <rect class="cls-1" x="70.13" y="50.13" width="10" height="10" rx="1" ry="1" transform="translate(150.25 110.25) rotate(-180)"/>
+    <rect class="cls-1" x="70.13" y="60.13" width="10" height="10" rx="1" ry="1" transform="translate(150.25 130.25) rotate(-180)"/>
+    <rect class="cls-1" x="60.13" y="10.13" width="10" height="10" rx="1" ry="1" transform="translate(130.25 30.25) rotate(-180)"/>
+    <rect class="cls-1" x="60.13" y="50.13" width="10" height="10" rx="1" ry="1" transform="translate(130.25 110.25) rotate(-180)"/>
+    <rect class="cls-1" x="60.13" y="60.13" width="10" height="10" rx="1" ry="1" transform="translate(130.25 130.25) rotate(-180)"/>
+    <rect class="cls-1" x="50.13" y="50.13" width="10" height="10" rx="1" ry="1" transform="translate(110.25 110.25) rotate(-180)"/>
+    <rect class="cls-1" x="40.13" y="50.13" width="10" height="10" rx="1" ry="1" transform="translate(90.25 110.25) rotate(-180)"/>
+    <rect class="cls-1" x="10.13" y=".13" width="12.5" height="10" rx="1" ry="1"/>
+    <rect class="cls-1" x="22.63" y=".13" width="17.5" height="10" rx="1" ry="1"/>
+    <rect class="cls-1" x="20.13" y="10.13" width="20" height="10" rx="1" ry="1"/>
+    <rect class="cls-1" x="40.13" y="20.13" width="30" height="10" rx="1" ry="1" transform="translate(110.25 50.25) rotate(-180)"/>
+    <rect class="cls-1" x="10.13" y="40.13" width="60" height="10" rx="1" ry="1"/>
+    <rect class="cls-1" x="20.12" y="60.13" width="15" height="10" rx="1" ry="1"/>
+    <rect class="cls-1" x="10.13" y="20.13" width="30" height="10" rx="1" ry="1" transform="translate(50.25 50.25) rotate(-180)"/>
+    <rect class="cls-1" x="25.13" y="30.13" width="30" height="10" rx="1" ry="1" transform="translate(80.25 70.25) rotate(-180)"/>
+    <rect class="cls-1" x="12.63" y="30.13" width="12.5" height="10" rx="1" ry="1"/>
+    <rect class="cls-1" x=".13" y="30.13" width="12.5" height="10" rx="1" ry="1"/>
+    <rect class="cls-1" x="40.13" y="10.13" width="20" height="10" rx="1" ry="1"/>
+    <rect class="cls-1" x="40.13" y=".12" width="17.5" height="10" rx="1" ry="1"/>
+    <rect class="cls-1" x="57.63" y=".13" width="12.5" height="10" rx="1" ry="1"/>
+    <rect class="cls-1" x="67.63" y="30.13" width="12.5" height="10" rx="1" ry="1"/>
+    <rect class="cls-1" x="55.13" y="30.13" width="12.5" height="10" rx="1" ry="1"/>
+    <rect class="cls-1" x="45.12" y="60.13" width="15" height="10" rx="1" ry="1"/>
+  </g>
+</svg>
