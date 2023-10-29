@@ -18,5 +18,9 @@ Note: The encoder spots share one set of pins, so you will not get two unique in
 
 ## Plate
 Two plate options exist. Both support all 7 bottom row options. The 1u plate has blockers on the top right and left corners to support 1u keys in those corners. The universal plate supports the top corners that support 1.5u and 1.25 corner keys and/or ISO enter to make a rectangular key layout (as well as 1u keys in the corners, though the PCB will be visible through the switch cutouts of the plate).
+
+### 1u
 ![1u](https://github.com/josh-l-wang/vault35-katana/blob/main/images/vault35_katana_plate_1u.png)
+
+### Uiversal
 ![Universal](https://github.com/josh-l-wang/vault35-katana/blob/main/images/vault35_katana_plate_universal.png)
