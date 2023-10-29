@@ -3,8 +3,11 @@
 
 ### Current Progress
 [x] prototypes ordered from JLCPCB
+
 [ ] PCB prototype testing (v0.1) - SK6812mini LEDs
+
 [ ] Plate testing
+
 [ ] Firmware - in progress
 
 ## PCB
