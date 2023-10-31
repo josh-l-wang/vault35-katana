@@ -2,13 +2,10 @@
  katana stagger for vault35 by mechvault
 
 ### Current Progress
-[x] prototypes ordered from JLCPCB
-
-[ ] PCB prototype testing (v0.1) - SK6812mini LEDs
-
-[ ] Plate testing
-
-[ ] Firmware - in progress
+- [x] prototypes ordered from JLCPCB
+- [ ] PCB prototype testing (v0.1) - SK6812mini LEDs
+- [ ] Plate testing
+- [ ] Firmware - in progress
 
 ## PCB
 ### PCB Renders
