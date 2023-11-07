@@ -3,9 +3,9 @@
 
 ### Current Progress
 - [x] prototypes ordered from JLCPCB
-- [ ] PCB prototype testing (v0.1) - SK6812mini LEDs
-- [ ] Plate testing
-- [ ] Firmware - in progress
+- [x] PCB prototype testing (v0.1) - SK6812mini LEDs
+- [x] Plate testing
+- [x] Firmware - VIAL compatible
 
 ## PCB
 ### PCB Renders
