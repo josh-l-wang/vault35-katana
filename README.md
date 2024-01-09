@@ -1,8 +1,8 @@
 # vault35-katana
  katana stagger for vault35 by mechvault
 
-### Current Remaining Issues:
-[ ] Footprint for LEDs needs to be updated, as the silkscreen indicates the wrong orientation. I would not produce these unless these silkscreen markings are updated.
+## Firmware:
+Firmware source is available in vial-qmk main branch. The precompiled .bin is in the firmware folder in this repository. To put the board into bootloader, hold down the reset button while plugging it in or use bootmagic. Flash using QMK Toolbox.
 
 ## PCB
 ### PCB Renders
