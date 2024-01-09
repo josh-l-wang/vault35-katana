@@ -1,11 +1,8 @@
 # vault35-katana
  katana stagger for vault35 by mechvault
 
-### Current Progress
-- [x] prototypes ordered from JLCPCB
-- [x] PCB prototype testing (v0.1) - SK6812mini LEDs
-- [x] Plate testing
-- [x] Firmware - VIAL compatible
+### Current Remaining Issues:
+[ ] Footprint for LEDs needs to be updated, as the silkscreen indicates the wrong orientation. I would not produce these unless these silkscreen markings are updated.
 
 ## PCB
 ### PCB Renders
